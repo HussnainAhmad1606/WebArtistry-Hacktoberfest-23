@@ -1,0 +1,2 @@
+# Advanced Signature Maker
+Develop an advanced online signature maker that allows users to create custom digital signatures with artistic flair. This project goes beyond basic signature generators by providing users with creative tools and options to design unique signatures.
