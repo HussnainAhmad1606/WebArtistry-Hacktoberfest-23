@@ -3,3 +3,39 @@
     padding:0;
     box-sizing: border-box;
 }
+
+body {
+	margin: 30px;
+    background-color: rgb(195, 255, 135);
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+
+.randobox {
+	background-color: #efefef;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+	font-size: 1.5em;
+    padding:30px;
+}
+
+h2{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+}
+#content1 {
+	color: rgb(16, 116, 69);
+}
+#content2 {
+	color: rgb(0, 174, 255);
+}
+#content3 {
+	color: purple;
+}
+#content4 {
+	color: rgb(255, 0, 140);
+}
+
